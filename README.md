@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <p>Guiado por :heart: e JavaScript. 💸</p>
+  <p>Guiado por :heart: e JS</p>
 </div>
