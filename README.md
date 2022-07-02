@@ -6,7 +6,7 @@
 
  <br>
 
-  <p align="center">Já deixa sua ⭐ e tire suas dúvidas comigo, sua contribuição é muito bem-vinda! 🚀</h2>
+  <p align="center">Já deixa sua ⭐ e entra em contato comigo, sua contribuição é bem-vinda! 🚀</h2>
 
 </div>
 
