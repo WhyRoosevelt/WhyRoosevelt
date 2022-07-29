@@ -2,7 +2,7 @@
 
   <h1 align="center">Oi, eu sou o <a href="https://www.instagram.com/why.roosevelt/">Roosevelt</a>! 🔌</h1>
 
-  <p align="center">Estudo Desenvolvimento Web na<a href="https://www.rocketseat.com.br/"><i> Rocketseat</i></a> e compartilho minha evolução com você aqui no GitHub! <span>🔥🏽️</span>
+  <p align="center">Estudo engenharia de software na<a href="https://www.rocketseat.com.br/"><i> Rocketseat</i></a> e compartilho minha evolução com você aqui no GitHub! <span>🔥🏽️</span>
 
  <br>
 
